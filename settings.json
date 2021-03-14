@@ -1,0 +1,8 @@
+{
+    "gameplay": {
+      "earninExtracts": true,
+      "earninExtractCost": 7000,
+      "earninExtractCurrency": "RUB",
+      "earninExtractTime_s": 15
+    }
+}
