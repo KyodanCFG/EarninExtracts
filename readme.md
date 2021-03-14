@@ -3,6 +3,8 @@ Earnin' Extracts (for JET v1.1.0)
 Version 1.1.0 (03.13.2021)
 By Kyodan 
 
+![Screenshot](cover.png)
+
 This mod replaces all "bring a friendly Scav/PMC" extracts and ask you to pay cash instead!
 
 **Download the latest release (in ZIP format) here: https://github.com/KyodanCFG/EarninExtracts/releases**
